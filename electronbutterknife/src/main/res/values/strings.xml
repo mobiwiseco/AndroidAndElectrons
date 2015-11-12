@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">electronbutterknife</string>
+    <string name="test">injected string</string>
 </resources>
