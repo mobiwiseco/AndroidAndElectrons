@@ -1,1 +1,1 @@
-include ':app', ':electronretrolambda', ':electronottobus', ':electronpicassoglide', ':electronbutterknife', ':electronhugo'
+include ':app', ':electronretrolambda', ':electronottobus', ':electronpicassoglide', ':electronbutterknife', ':electronhugo', ':electronretrofit'
